@@ -1,7 +1,7 @@
 FROM microsoft/dotnet:2.2-sdk
-WORKDIR /dodatkowe/
+WORKDIR /apka/
 COPY /apka/*.csproj ./
 RUN dotnet restore
-COPY . ./dodatkowe
-RUN dotnet publish -c Release
+COPY . ./apka
+RUN dotnetcore build -c Release
 ENTRYPOINT ["dotnet", "run", "-c", "Release", "--no-build"]
