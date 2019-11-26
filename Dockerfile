@@ -3,5 +3,5 @@ WORKDIR /apka/
 COPY /apka/*.csproj ./
 RUN dotnet restore
 COPY . ./apka
-RUN dotnetcore build -c Release
+RUN dotnet build -c Release
 ENTRYPOINT ["dotnet", "run", "-c", "Release", "--no-build"]
