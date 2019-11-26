@@ -1,0 +1,11 @@
+C:\Users\kiaih\OneDrive\Pulpit\test\apka\apka\bin\Debug\netcoreapp2.2\apka.deps.json
+C:\Users\kiaih\OneDrive\Pulpit\test\apka\apka\bin\Debug\netcoreapp2.2\apka.runtimeconfig.json
+C:\Users\kiaih\OneDrive\Pulpit\test\apka\apka\bin\Debug\netcoreapp2.2\apka.runtimeconfig.dev.json
+C:\Users\kiaih\OneDrive\Pulpit\test\apka\apka\bin\Debug\netcoreapp2.2\apka.dll
+C:\Users\kiaih\OneDrive\Pulpit\test\apka\apka\bin\Debug\netcoreapp2.2\apka.pdb
+C:\Users\kiaih\OneDrive\Pulpit\test\apka\apka\obj\Debug\netcoreapp2.2\apka.csprojAssemblyReference.cache
+C:\Users\kiaih\OneDrive\Pulpit\test\apka\apka\obj\Debug\netcoreapp2.2\apka.csproj.CoreCompileInputs.cache
+C:\Users\kiaih\OneDrive\Pulpit\test\apka\apka\obj\Debug\netcoreapp2.2\apka.AssemblyInfoInputs.cache
+C:\Users\kiaih\OneDrive\Pulpit\test\apka\apka\obj\Debug\netcoreapp2.2\apka.AssemblyInfo.cs
+C:\Users\kiaih\OneDrive\Pulpit\test\apka\apka\obj\Debug\netcoreapp2.2\apka.dll
+C:\Users\kiaih\OneDrive\Pulpit\test\apka\apka\obj\Debug\netcoreapp2.2\apka.pdb
